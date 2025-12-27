@@ -1,0 +1,44 @@
+{
+  "apps": [
+    {
+      "name": "NewPipe",
+      "version": "0.27.2",
+      "author": "Team NewPipe",
+      "icon": "https://raw.githubusercontent.com/TeamNewPipe/NewPipe/dev/assets/new_pipe_icon.png",
+      "description": "Lightweight YouTube frontend with no ads and no Google services.",
+      "apk": "https://github.com/TeamNewPipe/NewPipe/releases/download/v0.27.2/NewPipe_v0.27.2.apk"
+    },
+    {
+      "name": "Open Camera",
+      "version": "1.52.1",
+      "author": "Mark Harman",
+      "icon": "https://opencamera.org.uk/images/icon.png",
+      "description": "Open source camera app with advanced manual controls.",
+      "apk": "https://github.com/almalence/OpenCamera/releases/download/1.52.1/OpenCamera_1.52.1.apk"
+    },
+    {
+      "name": "VLC for Android",
+      "version": "3.5.4",
+      "author": "VideoLAN",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/9/9f/VLC_Icon.svg",
+      "description": "Free and open source multimedia player.",
+      "apk": "https://get.videolan.org/vlc-android/3.5.4/VLC-Android-3.5.4-arm64-v8a.apk"
+    },
+    {
+      "name": "K-9 Mail",
+      "version": "6.804",
+      "author": "Mozilla",
+      "icon": "https://raw.githubusercontent.com/thundernest/k-9/master/docs/assets/k9-icon.png",
+      "description": "Open source email client focused on privacy.",
+      "apk": "https://github.com/thundernest/k-9/releases/download/6.804/k9mail-6.804.apk"
+    },
+    {
+      "name": "AntennaPod",
+      "version": "3.3.2",
+      "author": "AntennaPod Team",
+      "icon": "https://antennapod.org/assets/img/favicon.png",
+      "description": "Podcast manager with automatic downloads and sync.",
+      "apk": "https://github.com/AntennaPod/AntennaPod/releases/download/3.3.2/AntennaPod_3.3.2.apk"
+    }
+  ]
+}
