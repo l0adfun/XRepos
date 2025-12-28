@@ -18,7 +18,7 @@
     },
     {
       "name": "Termux",
-      "version": "3.3.2",
+      "version": "0.119.0",
       "author": "Fredrik Fornwall",
       "icon": "https://avatars.mds.yandex.net/get-entity_search/5542822/561603588/S114x114FitScale_2x",
       "description": "Termux is an Android terminal emulator and Linux environment app.",
